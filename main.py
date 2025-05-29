@@ -139,3 +139,6 @@ print(2025 - birth_year)
 
 print("1 \n 2 \n 3 \n 4\n")
 print("I am using \"quotes\"")
+
+
+NEW LINES
